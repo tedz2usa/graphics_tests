@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+}
+
+.testBox {
+	border: 1px solid red;
+	margin: 10px;
+	display: inline-block;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: center;
+}
